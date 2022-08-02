@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "phone",
+      "description": "this is a phone",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "title": "bottle of wine",
+      "description": "greatest bottle of wine ever",
+      "price": 20
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Carolina",
+      "password": "secretpassword"
+    },
+    {
+      "id": 2,
+      "password": "$2b$10$qoFDETCOLc6Gs3N6kUHmYOiKxDu3TxA/I.AAaOvrdOvZ0iU7GTzBO",
+      "username": "john"
+    },
+    {
+      "id": 3,
+      "password": "$2b$10$ool0Rigr79qDJFsSRegUF.5azR8Z90K38l4g4r6TFzqgy6.JuL6sq",
+      "username": "john"
+    }
+  ]
+}
