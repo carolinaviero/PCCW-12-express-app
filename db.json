@@ -28,6 +28,21 @@
       "id": 3,
       "password": "$2b$10$ool0Rigr79qDJFsSRegUF.5azR8Z90K38l4g4r6TFzqgy6.JuL6sq",
       "username": "john"
+    },
+    {
+      "id": 4,
+      "password": "$2b$10$1rkX3IKr7TtnRr73EzBacOYQvv7ATUZujlJqgIKVHNlAAMN/C/Q8W",
+      "username": "mark"
+    },
+    {
+      "id": 5,
+      "password": "$2b$10$ZnpFu90NjXb3flkyi9asTePkhLZ8yZUUwlsc0L1Pa9o6s6qFC.O.C",
+      "username": "charlie"
+    },
+    {
+      "id": 6,
+      "password": "$2b$10$GlPz0yN9eNr46QYYktJgNuP9lCV/zNafZkHlITmEmBTUDibw8WreC",
+      "username": "adele"
     }
   ]
 }
